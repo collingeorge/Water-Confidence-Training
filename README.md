@@ -1,66 +1,136 @@
 # Water-Confidence-Training
 
-A personal training repository documenting systematic water confidence protocols designed to enhance stress resilience, cognitive performance under pressure, and physiological discipline through controlled aquatic exposure.
+A personal training repository documenting systematic water-confidence protocols designed to strengthen controlled stress exposure, cognitive performance under pressure, and physiologic discipline through safe, structured aquatic conditioning.
 
 ## Overview
 
-This repository contains structured training routines focused on building underwater confidence, breath discipline, and composure under controlled stress conditions. These protocols are designed to develop mental fortitude and decision-making capabilities that translate directly to high-stakes clinical environments.
+This repository contains academically structured training routines focused on developing:
+
+- Underwater composure
+- Breath regulation
+- Depth control
+- Environmental awareness
+- Task execution under physiologic load
+
+These protocols support the development of cognitive and emotional skills essential for high-acuity medical environments.
+
+---
 
 ## Purpose & Rationale
 
-As a clinical laboratory technician and premedical student on the intensivist/ICU track, I use water confidence training to cultivate specific cognitive and emotional capabilities essential for critical care medicine:
+As a premedical student preparing for a future career in **critical care, anesthesiology, and intensive medicine**, this training framework is designed to cultivate specific cognitive and physiologic competencies relevant to high-stakes clinical practice.
 
-### Clinical Applications
-- **Emotional Regulation**: Maintaining composure during physiological stress develops the emotional control necessary for high-acuity patient scenarios
-- **Decision-Making Under Pressure**: Cognitive precision during controlled hypoxic stress mirrors the mental clarity required during code situations and rapid clinical deterioration
-- **Stress Inoculation**: Repeated exposure to manageable physiological stressors builds resilience applicable to the sustained demands of intensive care environments
-- **Task Prioritization**: Executing multi-step protocols underwater with limited oxygen reinforces systematic thinking under resource constraints
+### Clinical Relevance
 
-### Physiological Adaptations
-- CO₂ tolerance and chemoreceptor adaptation
-- Diaphragmatic control and breathing efficiency
-- Cardiovascular stress response management
-- Neuromuscular coordination under fatigue
+**Emotional Regulation:**  
+Exposure to controlled physiologic stress teaches calmness, measured responses, and emotional containment—skills directly relevant to ICU codes, resuscitation, and unstable patients.
+
+**Decision-Making Under Pressure:**  
+Water-confidence tasks require precise actions under constrained time windows, paralleling clinical decision-making during acute decompensation, trauma, or perioperative crisis events.
+
+**Stress Inoculation:**  
+Repeated, controlled exposure to manageable stress enhances resilience, reduces sympathetic overactivation, and supports attentional control during high-acuity clinical tasks.
+
+**Task Sequencing & Prioritization:**  
+Complex underwater tasks performed with limited oxygen reinforce disciplined workflow, clinical prioritization, and structured thinking under resource constraints.
+
+---
+
+## Physiological Adaptations
+
+Water-confidence conditioning produces measurable physiologic adaptations including:
+
+- Improved CO₂ tolerance and chemoreflex adaptation
+- Enhanced diaphragmatic control and respiratory efficiency
+- Modulated cardiovascular stress-response patterns
+- Maintained neuromuscular coordination under metabolic load
+- Increased comfort with controlled breath-holds and depth transitions
+
+These adaptations parallel the physiologic and cognitive control required during:
+
+- ICU emergencies
+- Airway management
+- Sedation and anesthetic procedures
+- Trauma and resuscitation workflows
+
+---
 
 ## Repository Structure
 
-- `README.md` - This file
-- `LICENSE.md` - CC0 1.0 Universal licensing
-- `Training-Routines/` - Individual workout protocols
-  - `Friday-Deep-Pool-Protocol.md` - 13-ft dive pool routine (8-9/10 intensity)
-  - `BUD-S-Inspired-Protocol.md` - Advanced multi-phase protocol (10/10 intensity)
-  - *(Additional routines to be added)*
+```
+Water-Confidence-Training/
+│
+├── README.md
+├── LICENSE.md
+│
+├── Training-Routines/
+│   ├── Friday-Deep-Pool-Protocol.md
+│   ├── BUD-S-Inspired-Protocol.md
+│   └── (Additional protocols forthcoming)
+│
+└── Safety-and-Physiology/
+    ├── physiological_basis.md
+    ├── safety_framework.md
+    └── blackout_prevention_guidelines.md
+```
+
+**Key Files:**
+
+- **Friday-Deep-Pool-Protocol.md** — 13-ft advanced routine (8–9/10 intensity)
+- **BUD-S-Inspired-Protocol.md** — Multi-phase challenge protocol (10/10 intensity, supervision required)
+
+---
 
 ## Safety Protocol
 
-**All training is conducted under professional supervision with certified lifeguard presence.**
+**All training documented here is performed under certified lifeguard supervision in controlled aquatic environments.**
 
 ### Absolute Contraindications
-- No forced breath-holds beyond comfort threshold
+
+- No forced breath-holds beyond comfort thresholds
 - No hyperventilation prior to submersion
-- Immediate cessation upon lightheadedness, vision changes, excessive diaphragm contractions, or panic response
-- Continuous visual monitoring required for all underwater segments
+- Immediate cessation upon lightheadedness, visual changes, diaphragmatic spasms, or developing panic
+- Continuous lifeguard monitoring during all underwater components
+
+These guidelines align with **Red Cross**, **YMCA**, **AUSTSWIM**, and **medical blackout-prevention standards**.
+
+---
 
 ## Disclaimer
 
-**IMPORTANT**: These training protocols represent personal athletic conditioning designed by and for an individual with specific training goals and medical knowledge. They are **NOT** intended as instructional material for general use.
+These routines represent **personal athletic conditioning** designed for an individual with specific training goals, personal experience, and physiological awareness. They are:
 
-- These routines involve inherent physiological risks including hypoxia, shallow water blackout, and drowning
-- All activities are performed under professional supervision in controlled environments
-- Do **NOT** attempt these protocols without proper training, supervision, and medical clearance
-- This repository is for documentation purposes only and does not constitute medical advice or training instruction
+- **NOT** instructional material
+- **NOT** intended for unsupervised replication
+- **NOT** a substitute for formal freediving or water-safety training
+- **NOT** medical advice
+
+Risks of hypoxia, shallow-water blackout, and drowning are inherent to underwater activity and require proper supervision, training, and medical clearance.
+
+This repository serves **documentation purposes only**, including demonstration of:
+
+- Systematic performance optimization
+- Stress resilience development
+- Disciplined training structure
+- Academic integration of physiology and controlled stress exposure
+- Preparation for future high-acuity clinical environments
+
+---
 
 ## Author
 
 **Collin**  
-Premedical Student
-Prospective Intensivist/ICU Physician
+Premedical Student 
+Prospective Intensivist / Critical Care Physician
 
-*Documenting the intersection of athletic conditioning and clinical preparation for high-acuity medicine.*
+*Documenting the intersection of physiologic training, stress inoculation, and high-stakes clinical preparation.*
+
+---
 
 ## License
 
-This work is licensed under CC0 1.0 Universal. See [LICENSE.md](LICENSE.md) for details.
+This work is licensed under **CC0 1.0 Universal**.  
+See [LICENSE.md](LICENSE.md) for details.
 
 ---
 
