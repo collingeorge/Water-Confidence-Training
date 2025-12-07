@@ -1,5 +1,9 @@
 # Water-Confidence-Training
 
+[![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg)]()
+[![Status: Active Development](https://img.shields.io/badge/Status-Active-green.svg)]()
+[![Intensity: 8--10/10](https://img.shields.io/badge/Training_Intensity-8--10/10-orange.svg)]()
+
 A personal training repository documenting systematic water-confidence protocols designed to strengthen controlled stress exposure, cognitive performance under pressure, and physiologic discipline through safe, structured aquatic conditioning.
 
 ## Overview
