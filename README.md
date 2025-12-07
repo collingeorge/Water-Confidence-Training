@@ -27,7 +27,8 @@ As a clinical laboratory technician and premedical student on the intensivist/IC
 - `README.md` - This file
 - `LICENSE.md` - CC0 1.0 Universal licensing
 - `Training-Routines/` - Individual workout protocols
-  - `Friday-Deep-Pool-Protocol.md` - 13-ft dive pool routine (8/10 intensity)
+  - `Friday-Deep-Pool-Protocol.md` - 13-ft dive pool routine (8-9/10 intensity)
+  - `BUD-S-Inspired-Protocol.md` - Advanced multi-phase protocol (10/10 intensity)
   - *(Additional routines to be added)*
 
 ## Safety Protocol
