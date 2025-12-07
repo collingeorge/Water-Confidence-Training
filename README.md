@@ -53,8 +53,7 @@ As a clinical laboratory technician and premedical student on the intensivist/IC
 ## Author
 
 **Collin**  
-Clinical Laboratory Technician, UW Medical Center  
-Undergraduate Premedical Student, University of Washington  
+Premedical Student
 Prospective Intensivist/ICU Physician
 
 *Documenting the intersection of athletic conditioning and clinical preparation for high-acuity medicine.*
