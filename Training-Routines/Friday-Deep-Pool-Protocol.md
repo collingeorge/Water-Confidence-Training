@@ -9,109 +9,117 @@
 
 Depth acclimatization, breath discipline, underwater efficiency, and controlled stress exposure within safe physiological limits. Advanced phases include extended multi-hold breath sequences targeting 60+ second apnea duration.
 
----
+-----
 
 ## Phase 1: Controlled Depth Cycles (Warm-Up)
 
 **Repetitions**: 4
 
 ### Protocol
+
 1. Breath preparation: 20–30 seconds of calm inhalation
-2. Controlled descent to 13 ft
-3. Floor touch
-4. Controlled ascent
-5. Surface recovery: 10 seconds
+1. Controlled descent to 13 ft
+1. Floor touch
+1. Controlled ascent
+1. Surface recovery: 10 seconds
 
 **Training Focus**: Initial CO₂ tolerance, hydrostatic pressure adjustment, diaphragm relaxation
 
----
+-----
 
 ## Phase 2: Mask Retrieval Shuttle
 
 **Repetitions**: 3
 
 ### Protocol
+
 1. Place mask on pool bottom
-2. Dive to 13 ft and retrieve with one hand
-3. Swim underwater 15–20 ft
-4. Surface and recover
-5. Return on surface and replace mask
+1. Dive to 13 ft and retrieve with one hand
+1. Swim underwater 15–20 ft
+1. Surface and recover
+1. Return on surface and replace mask
 
 **Training Focus**: Motor control and cognitive precision under moderate breath-hold stress
 
----
+-----
 
 ## Phase 3: Underwater Streamline Transit
 
 **Repetitions**: 3
 
 ### Protocol
+
 1. Push off wall with streamlined body position
-2. Swim underwater 30 ft
-3. Surface recovery: 20 seconds
+1. Swim underwater 30 ft
+1. Surface recovery: 20 seconds
 
 **Training Focus**: Hydrodynamic efficiency, relaxed breath-hold technique, moderate CO₂ loading
 
----
+-----
 
 ## Phase 4: Deep-to-Shallow Transition
 
 **Repetitions**: 3
 
 ### Protocol
+
 1. Dive to 13 ft and retrieve mask
-2. Swim underwater to the 5-ft section
-3. Surface immediately upon reaching shallow gradient
+1. Swim underwater to the 5-ft section
+1. Surface immediately upon reaching shallow gradient
 
 **Training Focus**: Breath discipline during depth exposure and positional awareness during ascent
 
----
+-----
 
 ## Phase 5: Surface Conditioning Under Oxygen Debt
 
 **Sets**: 2
 
 ### Protocol
+
 1. Immediately after surfacing from depth, swim a 25-ft freestyle sprint
-2. Exit pool and perform 10 push-ups
-3. Re-enter pool and complete a second 25-ft freestyle swim
+1. Exit pool and perform 10 push-ups
+1. Re-enter pool and complete a second 25-ft freestyle swim
 
 **Training Focus**: Cardiovascular recovery, controlled exertion, and metabolic stress handling with full breathing access
 
----
+-----
 
 ## Phase 6: Advanced Deep Retrieval and Transit Challenge
 
 **Repetitions**: 3
 
 ### Protocol (Base Version)
+
 1. Execute a controlled entry (head-first or feet-first)
-2. Descend to 13 ft with arms clasped behind the lower back until bottom contact
-3. Release hands and retrieve the mask using one hand only
-4. Perform a 5-second controlled bottom hold while maintaining neutral buoyancy and visual orientation
-5. Initiate underwater transit across the pool (~30 ft), keeping arms in a streamlined position except for necessary corrections
-6. Upon reaching the opposite end, make clear bilateral foot contact with the pool bottom
-7. Execute a strong bottom push-off and continue underwater toward the 5-ft section
-8. Surface only when the hand makes contact with the shallow gradient
-9. Exit the pool
+1. Descend to 13 ft with arms clasped behind the lower back until bottom contact
+1. Release hands and retrieve the mask using one hand only
+1. Perform a 5-second controlled bottom hold while maintaining neutral buoyancy and visual orientation
+1. Initiate underwater transit across the pool (~30 ft), keeping arms in a streamlined position except for necessary corrections
+1. Upon reaching the opposite end, make clear bilateral foot contact with the pool bottom
+1. Execute a strong bottom push-off and continue underwater toward the 5-ft section
+1. Surface only when the hand makes contact with the shallow gradient
+1. Exit the pool
 
 ### Advanced Variant (Executed 12/06/2025)
+
 **Target breath-hold**: 60 seconds with three stationary holds
 
 1. Head-first entry from deck
-2. Hands clasped behind back throughout descent
-3. Descend to 13 ft, hands clasped
-4. Release hands, retrieve mask with one hand, immediately re-clasp
-5. **Seated 5-second bottom hold** (13 ft depth)
-6. Swim to opposite end along bottom (~30 ft), hands clasped, carrying mask
-7. **Seated 5-second bottom hold** at far end (13 ft depth)
-8. Ascend to 5-ft section while maintaining hand clasp
-9. Swim across 5-ft section to pool end (~20 ft)
-10. **Seated 5-second bottom hold** against wall (5 ft depth)
-11. Surface only after completing final hold
-12. Exit pool
+1. Hands clasped behind back throughout descent
+1. Descend to 13 ft, hands clasped
+1. Release hands, retrieve mask with one hand, immediately re-clasp
+1. **Seated 5-second bottom hold** (13 ft depth)
+1. Swim to opposite end along bottom (~30 ft), hands clasped, carrying mask
+1. **Seated 5-second bottom hold** at far end (13 ft depth)
+1. Ascend to 5-ft section while maintaining hand clasp
+1. Swim across 5-ft section to pool end (~20 ft)
+1. **Seated 5-second bottom hold** against wall (5 ft depth)
+1. Surface only after completing final hold
+1. Exit pool
 
 **Notes on Advanced Variant**:
+
 - Total apnea duration: approximately 60 seconds
 - Three stationary holds totaling 15 seconds of CO₂ accumulation
 - Hands remain clasped except for mask retrieval moment
@@ -120,74 +128,118 @@ Depth acclimatization, breath discipline, underwater efficiency, and controlled 
 
 **Training Focus**: High-difficulty underwater control incorporating depth pressure adaptation, task-specific breath-hold discipline, hydrodynamic efficiency without full arm propulsion, and cognitive precision during CO₂ accumulation. Advanced variant adds extended apnea duration with multiple postural holds requiring sustained composure under progressive hypoxia.
 
----
+-----
 
 ## Phase 7: Post-Apnea High-Load Conditioning
 
 **Sets**: 2
 
 ### Protocol
+
 1. Immediately upon surfacing in the shallow section, perform a 50-ft freestyle sprint at maximal controlled intensity
-2. Exit the pool and complete 15 push-ups with continuous breathing and strict form
-3. Re-enter the pool and perform a second 50-ft freestyle swim, emphasizing pace maintenance under residual oxygen debt
-4. Rest 45–60 seconds on deck, then repeat the set
+1. Exit the pool and complete 15 push-ups with continuous breathing and strict form
+1. Re-enter the pool and perform a second 50-ft freestyle swim, emphasizing pace maintenance under residual oxygen debt
+1. Rest 45–60 seconds on deck, then repeat the set
 
 **Training Focus**: Post-apnea cardiovascular load, rapid transition from hypoxic stress to aerobic demand, neuromuscular endurance, and controlled breathing recovery following depth-based workload
 
----
+-----
 
 ## Phase 8: Deep-Control Transit Gauntlet (Pass/Fail Final Challenge)
 
 **Attempts**: 1 (pass/fail)
 
 ### Protocol (Base Version)
+
 1. Execute a controlled water entry (head-first or feet-first)
-2. Descend to 13 ft with arms clasped behind the lower back until bottom contact
-3. Release hands and retrieve the mask from the bottom using one hand only
-4. Perform a 7–10 second controlled bottom hold, maintaining composure and neutral buoyancy
-5. Initiate underwater transit across approximately 30 ft of pool distance using streamlined technique
-6. Surface once only at the halfway point and take one controlled breath
-7. Immediately re-submerge and continue the remaining underwater transit to the far wall
-8. Upon reaching the far end, make clear bilateral foot contact with the pool bottom
-9. Execute a single controlled bottom push-off, maintaining hydrodynamic posture
-10. Swim underwater toward the 5-ft section until buoyancy assists ascent
-11. Surface only when hand contact is made with the shallow gradient
-12. Exit the pool without resting on the wall or pausing in the water
+1. Descend to 13 ft with arms clasped behind the lower back until bottom contact
+1. Release hands and retrieve the mask from the bottom using one hand only
+1. Perform a 7–10 second controlled bottom hold, maintaining composure and neutral buoyancy
+1. Initiate underwater transit across approximately 30 ft of pool distance using streamlined technique
+1. Surface once only at the halfway point and take one controlled breath
+1. Immediately re-submerge and continue the remaining underwater transit to the far wall
+1. Upon reaching the far end, make clear bilateral foot contact with the pool bottom
+1. Execute a single controlled bottom push-off, maintaining hydrodynamic posture
+1. Swim underwater toward the 5-ft section until buoyancy assists ascent
+1. Surface only when hand contact is made with the shallow gradient
+1. Exit the pool without resting on the wall or pausing in the water
 
 ### Advanced Variant (Executed 12/06/2025)
-**Target breath-hold**: 60 seconds with three stationary holds, NO mid-transit surface breath
 
-This variant follows the same protocol as Phase 6 Advanced Variant:
+**Target breath-hold**: 60 seconds with three stationary holds, NO mid-transit surface breath  
+**Equipment**: Safety resistance bands (hands and feet bound for controlled mobility restriction)
 
-1. Head-first entry from deck
-2. Hands clasped behind back throughout descent
-3. Descend to 13 ft, hands clasped
-4. Release hands, retrieve mask with one hand, immediately re-clasp
-5. **Seated 5-second bottom hold** (13 ft depth)
-6. Swim to opposite end along bottom (~30 ft), hands clasped, carrying mask
-7. **Seated 5-second bottom hold** at far end (13 ft depth)
-8. Ascend to 5-ft section while maintaining hand clasp
-9. Swim across 5-ft section to pool end (~20 ft)
-10. **Seated 5-second bottom hold** against wall (5 ft depth) - **this is the maximum push point**
-11. Surface only after completing final hold
-12. Exit pool without wall rest or pause
+**Critical Safety Note**: Bindings used are safety-grade resistance bands that allow immediate release if needed. This is NOT a restrictive binding protocol—bands provide resistance training while maintaining emergency egress capability.
 
-**Key Difference from Base Version**: 
-- No mid-transit surface breath (eliminates step 6-7 from base protocol)
-- Continuous breath-hold from entry to final surface
-- Three deliberate holds increase CO₂ accumulation significantly
-- Final 5-second hold at 5 ft depth is typically where maximum physiological stress is experienced
+**Protocol**:
+
+1. **Pre-dive setup**: Hands bound behind back with safety bands; feet bound with safety bands
+1. **Entry**: Head-first dive from deck
+1. **Descent and orientation** (13 ft depth):
+- Descend to pool bottom
+- Orient body position on bottom
+- Locate mask positioned in center of pool
+1. **Mask retrieval**:
+- Navigate to mask location while bound
+- Retrieve mask using teeth only (hands remain bound)
+1. **First hold and panic management**:
+- **Seated 5-second bottom hold** (13 ft depth) with mask in teeth
+- **Panic moment experienced**: Disorientation after grabbing mask while seated
+- **Self-management executed**: Recognized panic, verbal self-talk (“calm down”), regained composure
+- This demonstrates critical skill: panic recognition and active management under stress
+1. **Transit to transfer point**:
+- Seal swim (undulation only, limbs bound) across bottom to opposite end
+- Navigate to 13ft/5ft transfer section (~30 ft transit)
+1. **Second hold**:
+- **Seated 5-second bottom hold** at transfer point (13 ft depth)
+1. **Depth transition**:
+- Bilateral foot contact with bottom
+- Execute controlled bottom push-off
+- Transfer to 5-ft section while maintaining seal swim technique
+1. **Surface**:
+- Surface only after reaching 5-ft section
+- Mask remains in teeth throughout entire evolution
+1. **Exit**: Complete evolution, bands removed safely
+
+**Total Evolution Metrics**:
+
+- **Breath-hold duration**: ~60 seconds
+- **Stationary holds**: Two 5-second holds (10 seconds total CO₂ accumulation)
+- **Distance covered**: ~30 ft at depth while fully bound
+- **Panic management**: One panic episode successfully managed without aborting
+- **Difficulty rating**: 9.5/10 (bound retrieval + teeth-only + panic management)
+
+**Key Differences from Phase 6 Advanced Variant**:
+
+- **Full binding throughout**: Hands AND feet bound (Phase 6 uses hand clasp only)
+- **Teeth-only retrieval**: Significantly harder than one-handed retrieval
+- **Seal swim mechanics**: Requires full-body undulation, not streamlined swimming
+- **Included panic moment**: Documents real panic experience and successful management
+- **Two holds vs three**: Slightly different hold structure but comparable total CO₂ load
+
+**Critical Training Outcome - Panic Management**:
+
+This evolution is particularly valuable because it included a genuine panic moment:
+
+- **Recognition**: “I panicked slightly to reorient from sitting and grabbing mask”
+- **Self-talk**: Verbal calming technique employed
+- **Stabilization**: Regained composure before continuing
+- **Task completion**: Successfully continued and completed evolution
+
+**This demonstrates the exact skill required in ICU crisis situations**: recognizing emotional/physiological stress response, actively managing it, and continuing task execution. This is MORE valuable than a smooth, panic-free evolution.
 
 **Notes on Advanced Variant**:
-- This is a more difficult evolution than the base version despite removing the mid-transit breath
-- The three holds create sustained CO₂ accumulation that tests psychological limits
-- Trainee reported the final 5-second hold as "the only time I knew I had pushed really far, farther than I thought I could"
-- Multi-depth navigation under continuous apnea requires sustained spatial awareness
-- Difficulty rating: 9/10
 
-**Training Focus**: Maximal controlled exertion under depth pressure; advanced breath discipline WITHOUT guaranteed mid-task airway access; neuromuscular efficiency and spatial orientation during extended apnea with multiple depth transitions; psychological composure during elevated CO₂ load pushing beyond perceived limits; and evaluable, standardized end-state performance under genuine physiological stress.
+- Binding adds significant difficulty to all movement phases
+- Teeth-only retrieval requires precise head control and spatial awareness
+- Seal swim technique is metabolically expensive, increasing CO₂ load
+- Panic management under genuine stress is the highest-value training outcome
+- This variant represents maximum safe difficulty for 13-ft pool environment
+- Multi-depth navigation while bound requires exceptional body awareness
 
----
+**Training Focus**: Maximal controlled exertion under mobility restriction; teeth-only task execution requiring fine motor control; seal swim mechanics under metabolic load; panic recognition and active management during genuine stress response; neuromuscular efficiency during bound transit; spatial orientation while disoriented; psychological composure when continuing after panic episode; and evaluable demonstration of stress management rather than stress suppression.
+
+-----
 
 ## SEAL-Style Grading Rubric (Pass/Fail)
 
@@ -227,15 +279,15 @@ All conditions below must be met:
 
 **A pass on advanced variant indicates**: Extended CO₂ tolerance under sustained postural holds, psychological composure when pushing beyond perceived physiological limits, spatial awareness during multi-depth transitions under continuous apnea, and ability to maintain discipline during final-phase maximum stress
 
----
+-----
 
 ## Safety Protocol
 
 1. No forced breath-holds; no breath-holds beyond comfort threshold
-2. No hyperventilation prior to breath-hold
-3. Immediate cessation if lightheadedness, narrowing vision, excessive diaphragm contractions, or panic response occurs
-4. Lifeguard must have continuous visual contact during all underwater segments
+1. No hyperventilation prior to breath-hold
+1. Immediate cessation if lightheadedness, narrowing vision, excessive diaphragm contractions, or panic response occurs
+1. Lifeguard must have continuous visual contact during all underwater segments
 
----
+-----
 
 *Protocol developed for personal stress resilience training and clinical preparation. Not intended for general instruction or replication without proper training and supervision.*
